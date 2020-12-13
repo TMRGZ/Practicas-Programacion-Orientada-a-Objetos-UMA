@@ -1,0 +1,12 @@
+Asignacion de laboratorios
+--------------------------
+Laboratorio 0
+	(LUNES, PRIMERA) Antonio Lopez POO
+	(MARTES, PRIMERA) Maria Molina FP
+	(JUEVES, PRIMERA) Juan Perez FP3
+Laboratorio 1
+	(LUNES, PRIMERA) Juan Perez FP
+Conflictos
+----------
+	(LUNES, PRIMERA) Juan Perez FP1
+	(LUNES, PRIMERA) Juan Perez FP2

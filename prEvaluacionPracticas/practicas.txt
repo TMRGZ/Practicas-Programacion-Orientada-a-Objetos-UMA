@@ -1,0 +1,14 @@
+56786342H:Rodriguez Vara Antonio:2
+p1 6
+p2 8
+87564987X:Aragon Rubio Juan:3
+p1 8
+p2 4
+p3 5
+45888765D:Ramirez Gomez Alejandro:4
+p1 5
+p2 3
+p4 6
+p3 2
+97354123R:Gonzalez Torres Pedro:1
+p3 7

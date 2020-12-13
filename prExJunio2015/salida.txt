@@ -1,0 +1,7 @@
+Persona [Nombre: Carmona,Beatriz, Codigo: 1015, Habitacion: 132]#Persona [Nombre: Ortiz,Natalia, Codigo: 1060, Habitacion: 132]
+Persona [Nombre: Garcia,Ana, Codigo: 1002, Habitacion: 132]#Persona [Nombre: Lopez,Pedro, Codigo: 1034, Habitacion: 132]#Persona [Nombre: Lopez,Nuria, Codigo: 1036, Habitacion: 0]
+Persona [Nombre: Herrador,Ana, Codigo: 1005, Habitacion: 100]#Persona [Nombre: Smith,Pedro, Codigo: 1010, Habitacion: 100]
+Persona [Nombre: Martos,Joanna, Codigo: 1016, Habitacion: 211]
+Persona [Nombre: Paneque,Carolina, Codigo: 1018, Habitacion: 132]#Persona [Nombre: Molina,Maria, Codigo: 1095, Habitacion: 132]#Persona [Nombre: Molina,Juan, Codigo: 1100, Habitacion: 0]
+Persona [Nombre: Pascual,Rita, Codigo: 1009, Habitacion: 211]#Persona [Nombre: España,Antonio, Codigo: 1050, Habitacion: 0]
+Persona [Nombre: Sanchez,Emerenciana, Codigo: 1010, Habitacion: 211]
