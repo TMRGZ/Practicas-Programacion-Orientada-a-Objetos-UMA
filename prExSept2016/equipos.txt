@@ -1,0 +1,4 @@
+Parque Litoral:3:10:Ana Romero:3:2:Juan Diaz:2:2:Antonio Lopez:2:1:Pedro Jimenez:3:3:Carmen Perez:1:1:Luisa Montiel:1:1
+Padel Palo:3:8:Rosa Lima:2:1:Jose Atencia:2:1:Manuel Rodriguez:2:2:Barbara Avila:2:2
+Centro Padel:2:6:Lucas Ortiz:1:1:Alberto Cuenca:1:1:Victoria Diaz:1:1:Roberto Gomez:1:1
+Padel Palo:3:8:Rosa Lima:2:1:Alfredo Maroto:1:0:Ignacio Suarez:1:0
