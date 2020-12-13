@@ -1,0 +1,28 @@
+CAIRO
+ 	 [Cairo] 
+COLOR
+ 	 [Color] 
+EL
+ 	 [El] 
+LA
+ 	 [La] 
+MISION
+ 	 [Mision] 
+TOMA
+ 	 [Toma] 
+AZAFRAN
+ 	 [azafran] 
+COLOR
+ 	 [color] 
+DINERO
+ 	 [dinero] 
+IMPOSIBLE
+ 	 [imposible] 
+MISION
+ 	 [mision] 
+NOMBRE
+ 	 [nombre] 
+PURPURA
+ 	 [purpura] 
+ROSA
+ 	 [rosa] 
