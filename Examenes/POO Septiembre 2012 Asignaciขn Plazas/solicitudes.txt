@@ -1,0 +1,17 @@
+I3 3
+111111110A 25 María Martín Arrebola
+111111111B 26.5 Antonio Gómez Muñoz
+111111112C 30 Antonio Pérez Gallardo
+I4 1
+222222220A 14 Eva López García
+P2 3
+333333330A 23 Fabio Luque Marín
+333333331B 45 Mariola Martín Gutierrez
+333333332C 14 Miguel Alarcón Alarcón
+P4 1
+444444440A 14.5 Rosa Amaro López
+P6 4
+111111110A 25 Pedro Martín Arrebola
+555555551B 23.5 Paco Pérez Alarcón
+555555552C 14.5 María López Serrano
+333333330A 14 Juana Luque Marín

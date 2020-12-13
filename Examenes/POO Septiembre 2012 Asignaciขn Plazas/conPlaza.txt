@@ -1,0 +1,12 @@
+I3
+111111112C 30.0  Antonio Pérez Gallardo
+111111111B 26.5  Antonio Gómez Muñoz
+I4
+222222220A 14.0  Eva López García
+P2
+333333331B 45.0  Mariola Martín Gutierrez
+333333330A 23.0  Fabio Luque Marín
+P4
+P6
+111111110A 25.0  Pedro Martín Arrebola
+555555551B 23.5  Paco Pérez Alarcón

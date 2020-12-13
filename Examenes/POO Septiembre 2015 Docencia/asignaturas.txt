@@ -1,0 +1,4 @@
+Fundamentos de Informática;60;102178;102
+Analisis y Diseño de Algoritmos;48;10161;101
+Programacion Orientada de Videojuegos;30;10169;101
+Metodos Estadisticos;50;10976;109

@@ -1,0 +1,10 @@
+I3
+111111110A 25.0  María Martín Arrebola
+I4
+P2
+333333332C 14.0  Miguel Alarcón Alarcón
+P4
+444444440A 14.5  Rosa Amaro López
+P6
+111111110A 25.0  Pedro Martín Arrebola
+555555552C 14.5  María López Serrano

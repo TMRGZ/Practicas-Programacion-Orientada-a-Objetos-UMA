@@ -1,0 +1,4 @@
+Pablo Lopez;84&Estructuras de Datos;41;10178;101&Complejidad y Calculabilidad;43;10167;101
+Violeta Escudero;52&Programacion Orientada a Objetos;41;10167;101
+Valeria Diaz;120&Sistemas Inteligentes;60;10167;101&Metodos Numericos;50;10145;101
+Pablo Lopez;84&Calculo;18;10199;101

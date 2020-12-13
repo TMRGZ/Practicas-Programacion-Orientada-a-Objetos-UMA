@@ -1,0 +1,44 @@
+Vehiculo: 2145FSS, pos(1.0, 1.0), horas(10, 14)
+
+Vehiculo: 2245FSS, pos(3.0, 2.0), horas(10, 14)
+
+Vehiculo: 2345FSS, pos(4.0, 2.0), horas(11, 14)
+
+Parking_0(0.0, 0.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+
+puedo reservar para v1
+
+Parking_0(0.0, 0.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, 2145FSS, 2145FSS, 2145FSS, 2145FSS, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+
+Parking_1
+
+Parking_4
+
+Parking_4
+
+{2345FSS=Parking_2, 2245FSS=Parking_4, 2145FSS=Parking_1}
+
+Parking_3(0.0, 3.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+Parking_2(4.0, 0.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, 2345FSS, 2345FSS, 2345FSS, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+Parking_1(0.0, 0.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, 2145FSS, 2145FSS, 2145FSS, 2145FSS, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+Parking_4(4.0, 3.0)
+[libre, libre, libre, libre, libre, libre, libre, libre, libre, libre, 2245FSS, 2245FSS, 2245FSS, 2245FSS, libre, libre, libre, libre, libre, libre, libre, libre, libre, libre]
+
+

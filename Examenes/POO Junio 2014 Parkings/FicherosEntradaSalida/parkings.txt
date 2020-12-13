@@ -1,0 +1,4 @@
+Parking_1 0 0 5
+Parking_2 4 0 3
+Parking_3 0 3 2
+Parking_4 4 3 1
