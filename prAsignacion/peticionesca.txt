@@ -1,0 +1,6 @@
+POO#Antonio Lopez#Lunes#primera#martes#segunda#jueves#primera
+FP#Maria Molina#Martes#primera#martes#segunda#miercoles#tercera
+FP#Juan Perez#Lunes#primera#martes#segunda#miercoles#segunda
+FP1#Juan Perez#Lunes#primera#martes#segunda#jueves#primera
+FP2#Juan Perez#Lunes#primera#martes#segunda#jueves#segunda
+FP3#Juan Perez#Jueves#primera#jueves#segunda

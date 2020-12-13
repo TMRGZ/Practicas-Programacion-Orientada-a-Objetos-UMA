@@ -1,0 +1,8 @@
+Asignaciones: 
+Laboratorio 1	 ((LUNES, PRIMERA))  -->  POO, Antonio Lopez.
+	 ((MARTES, PRIMERA))  -->  FP, Maria Molina.
+	 ((MARTES, SEGUNDA))  -->  FP1, Juan Perez.
+	 ((JUEVES, PRIMERA))  -->  FP3, Juan Perez.
+Laboratorio 2	 ((LUNES, PRIMERA))  -->  FP, Juan Perez.
+	 ((MARTES, SEGUNDA))  -->  FP2, Juan Perez.
+Conflictos: 
